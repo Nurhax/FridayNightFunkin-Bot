@@ -1,1 +1,1 @@
-Automatic bot for playing friday night funkin (this project is built mainly for learning purposes)
+Automatic bot that plays FridayNightFunkin(FNF) for learning purposes.
